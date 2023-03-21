@@ -1,0 +1,47 @@
+body { 
+ background-color: #e7e5de; 
+ margin: 0; 
+ padding: 0; 
+ font-family: "MerriWeather", sans-serif; 
+ font-size: 20px; 
+ line-height: 20px; 
+ color:#333029; 
+} 
+h1 { 
+ 
+ margin: 0 auto 10px; 
+ font-family: "Georgia", serif; 
+ text-align: center; 
+ font-weight: normal; 
+ font-size: 50px; 
+ line-height: 50px; 
+ text-shadow: 3px 3px 3px image.png#584f41; 
+ color:#e7ae44; 
+ 
+} 
+h2 { 
+ font-family:"Georgia", serif; 
+ font-size:20px; 
+ line-height:25px ; 
+ color:#aa9e83 
+} 
+h3 { 
+ font-family: "Bulgaria Moderna V3 font", sans-serif; 
+ font-size:20px; 
+ line-height:25px ; 
+ color:#5e594e 
+} 
+.section { 
+ margin: 0 auto 10px; 
+ text-align: center; 
+} 
+h4{ 
+ border-bottom: 2px solid #aa9e83; 
+ padding-bottom: 15px; 
+}
+.image {
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+	
+}
